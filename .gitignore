@@ -1,0 +1,10 @@
+
+.DS_Store
+build/
+xcuserdata
+DerivedData
+*.xcworkspace
+Pods/
+build_*.txt
+get_font_name.py
+
