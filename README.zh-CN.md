@@ -1,5 +1,5 @@
 <h1 align="center">
-  Fitness Timer Pro<br>
+  健身计时器<br>
 </h1>
 <div align="center">
 <img src="https://img.shields.io/badge/platform-iOS-blue"/>
