@@ -11,7 +11,7 @@
   [English](README.md) | [简体中文](README.zh-CN.md)
 </div>
 <p align="center">
-A native iOS fitness timer app built with SwiftUI, featuring an AI-powered planning assistant, multi-phase workout timer, and calendar-based training management.
+A native iOS fitness timer app, featuring an AI-powered planning assistant and workout timer.
 </p>
 <p align="center">
   <a href="https://apps.apple.com/cn/app/%E5%81%A5%E8%BA%AB%E8%AE%A1%E6%97%B6%E5%99%A8-%E8%AE%AD%E7%BB%83%E8%AE%A1%E6%97%B6-ai-%E8%A7%84%E5%88%92%E5%8A%A9%E6%89%8B/id6760479130">
